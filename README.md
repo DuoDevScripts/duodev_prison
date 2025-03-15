@@ -74,3 +74,4 @@ Ha bármilyen problémába ütköztél, csatlakozz a support szerverünkhöz: [S
 
 Ez a script az [MIT Licenc](https://opensource.org/licenses/MIT) alatt van licencelve.
 
+## LINK: [Support Server](https://discord.gg/qRbWBZHZFC)
